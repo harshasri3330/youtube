@@ -31,7 +31,7 @@ export default function List() {
     <>
       <div className='col-md-10 content'>
         <h1>List newdeploy</h1>
-        <table border="1">
+        <table border="1" className='tablemy'>
           <thead>
             <tr>
               <th>ID</th> {/* Corrected the column name to match displayed data */}
