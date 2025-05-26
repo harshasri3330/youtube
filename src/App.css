@@ -1,0 +1,23 @@
+.main{
+  height: 800px;background-color: blue;
+}
+.sidebar{
+  height: 800px;background-color: black;
+}
+.content{
+  height: 800px;background-color: grey;
+}
+
+.menu ul li{
+  color: white;
+  list-style: none;
+  margin-top: 20px;
+  padding: 10px;
+  font-size: 25px
+}
+
+
+.menu ul li:hover{background-color: grey;border-radius: 5px;}
+.tablemy{
+  border: 1px solid black;
+}
